@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project.
 
-![Allie](https://github.com/bottomsalexandra/bottomsalexandra.github.io/blob/master/README.md?raw=true "Optional Title")
+![Allie](https://github.com/bottomsalexandra/bottomsalexandra.github.io/blob/master/Allie%20Mask.PNG?raw=true "Optional Title")
 
 
 ***
